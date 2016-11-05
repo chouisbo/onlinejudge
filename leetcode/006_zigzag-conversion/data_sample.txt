@@ -1,0 +1,50 @@
+
+
+OriginalString: PAYPALISHIRING
+
+
+convert("PAYPALISHIRING", 1)
+
+PAYPALISHIRING
+
+PAYPALISHIRING
+
+
+=================================================
+convert("PAYPALISHIRING", 2)
+
+PYAIHRN
+APLSIIG
+
+PYAIHRNAPLSIIG
+
+=================================================
+convert("PAYPALISHIRING", 3)
+
+P A H N
+APLSIIG
+Y I R
+
+PAHNAPLSIIGYIR
+
+=================================================
+convert("PAYPALISHIRING", 4)
+
+P  I  N
+A LS IG
+YA HR 
+P  I
+
+PINALSIGYAHRPI
+
+=================================================
+convert("PAYPALISHIRING", 5)
+
+P   H
+A  SI
+Y I R 
+PL  IG
+A   N
+
+PHASIYIRPLIGAN
+
